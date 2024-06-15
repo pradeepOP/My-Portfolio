@@ -15,8 +15,8 @@ const About = () => {
         <p className="pt-4 text-lg leading-relaxed tracking-wider text-gray-300">
           Hey there! I'm <span className="text-lg text-pink-600">Pradeep</span>
           ,a graduate from elctronics, communication and information engineering
-          and a full-stack developer with a knack for turning ideas into
-          polished digital experiences.
+          and a web developer who loves turning ideas into polished digital
+          experiences.
         </p>
         <p className="pt-2 text-lg leading-relaxed tracking-wider text-gray-300 md:pt-6">
           From sleek front-end designs to robust back-end solutions, I love

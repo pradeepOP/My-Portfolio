@@ -14,11 +14,11 @@ const Home = () => {
             Pradeep chhetri
           </h1>
           <h2 className="text-4xl sm:text-7xl font-bold text-[#8892b0] ">
-            I'm a Full Stack developer
+            I'm a Web developer
           </h2>
           <p className="text-[#8892b0] py-4 max-w-[700px]">
-            A passionate programmar with a knack for creating dynamic and
-            responsive web applications.
+            A passionate programmer who loves building interactive and
+            responsive websites.
           </p>
           <div>
             <Link to="projects" smooth={true} duration={500}>
